@@ -61,8 +61,6 @@ Nice to know
 | 11 | 2                     | 208              | 5                    |
 | 12 | 1                     | 2578             | 67                   |
 
-![alt text](https://github.com/AI-Song-Contest/ai-song-contest-data/blob/master/img/amount_of_songs_rated_per_voter.png?raw=true "amount_of_songs_rated_per_voter")
-
 ## Short list of votes per country:
 
 |    | Country name    | Number of votes | Percentage of votes |
@@ -80,10 +78,6 @@ Nice to know
 | 10 | Norway          | 134             | 1.08                |
 | 11 | Italy           | 110             | 0.89                |
 | 12 | Other           | 1166            | 9.39                |
-
-![alt text](https://github.com/AI-Song-Contest/ai-song-contest-data/blob/master/img/votes_per_country_short_bar.png?raw=true "votes_per_country_short_bar")
-
-![alt text](https://raw.githubusercontent.com/hvkoops/ai-song-contest-data/master/img/votes_per_country_short.png?token=ABOUWM2PYDW7KHX6KETORCS7D2TRW "Short list of votes per country")
 
 For a full list, see `csv/votes_per_country_long.csv`
 
