@@ -1,5 +1,5 @@
 # AI Song Contest Data
-This repository contains open source data from the AI Song Contest
+This repository contains open source data from the [AI Song Contest](https://www.aisongcontest.com/)
 
 ## 2020 AI Song Contest data 
 [Here](https://github.com/AI-Song-Contest/ai-song-contest-data/tree/main/2020) you will voting results from the 2020 AI Song Contest
